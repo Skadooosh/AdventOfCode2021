@@ -1,3 +1,6 @@
+/**
+ * Part 2 Solution
+ */
 process.stdin.resume();
 process.stdin.setEncoding('utf8');
 
