@@ -1,4 +1,5 @@
 // Importing the fs module
+// Part 2 Solution
 let fs = require("fs")
 
 // Intitializing the readFileLines with the file

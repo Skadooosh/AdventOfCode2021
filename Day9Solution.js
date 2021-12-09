@@ -13,7 +13,7 @@ const readFileLines = filename =>
   .split('\n');
 
 // Calling the readFiles function with file name
-let arr = readFileLines('inputDay9.txt');
+let arr = readFileLines('inputday9.txt');
 process.stdin.resume();
 process.stdin.setEncoding('utf8');
 let basinArray;
